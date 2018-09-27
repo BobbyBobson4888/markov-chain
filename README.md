@@ -1,4 +1,5 @@
-# Markov Chain Text Generator
+# Markov Chain Text Generator  
+Python 3
 
 Generates posts using a markov chain.
 
