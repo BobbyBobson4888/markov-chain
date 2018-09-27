@@ -2,6 +2,7 @@
 Python 3
 
 [![Generic badge](https://img.shields.io/badge/Status-Pretty%20Much%20Done-red.svg)](https://shields.io/)
+[![Python 3.6 | 3.7](https://img.shields.io/badge/python-3.6%20%7C%203.7-blue.svg)](https://shields.io/)
 
 Generates posts using a markov chain.
 
