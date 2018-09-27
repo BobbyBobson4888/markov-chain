@@ -1,6 +1,8 @@
 # Markov Chain Text Generator  
 Python 3
 
+[![Generic badge](https://img.shields.io/badge/Status-Pretty%20Much%20Done-red.svg)](https://shields.io/)
+
 Generates posts using a markov chain.
 
 Put each post on its own line in the corpus file.
